@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "why_uses",
+  "info": {
+    "singularName": "why-us",
+    "pluralName": "why-uses",
+    "displayName": "WhyUs"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "point": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

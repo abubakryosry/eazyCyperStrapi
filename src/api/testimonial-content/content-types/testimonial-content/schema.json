@@ -1,0 +1,35 @@
+{
+  "kind": "singleType",
+  "collectionName": "testimonial_contents",
+  "info": {
+    "singularName": "testimonial-content",
+    "pluralName": "testimonial-contents",
+    "displayName": "TestimonialContent"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "description": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}
